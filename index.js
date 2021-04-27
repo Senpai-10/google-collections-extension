@@ -21,7 +21,13 @@ document.addEventListener('DOMContentLoaded', () => {
     
     
     let previous = document.getElementById("previous").addEventListener("click", () => {
-        chrome.tabs.update({url:"https://www.google.com"})
+        chrome.tabs.query({active:true, currentWindow:true},function(tab){
+            let url = tab[0].url
+            const params = new URL(url).searchParams;
+            let pagenumber = params.get("pageNumber")
+
+            chrome.tabs.update({url: updateURLParameter(url, "pageNumber", parseInt(pagenumber)-1)})
+        });
     })
 
     let next = document.getElementById("next").addEventListener("click", () => {
