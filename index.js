@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         chrome.tabs.query({active:true, currentWindow:true},function(tab){
             let url = tab[0].url
             const params = new URL(url).searchParams;
-            let pagenumber = params.get("pageNumber")
+            let pagenumber = params.get("pageNumber") != undefined ? params.get("pageNumber") : 1
 
             chrome.tabs.update({url: updateURLParameter(url, "pageNumber", parseInt(pagenumber)+1)})
         });
