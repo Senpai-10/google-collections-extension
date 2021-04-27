@@ -1,0 +1,19 @@
+button {
+    border: none;
+    cursor: pointer;
+    color: white;
+    padding: 4px 16px;
+    
+}
+
+#previous {
+    border-radius: 2px;
+    background-color: rgb(192, 48, 48);
+    display:inline-block;
+}
+
+#next {
+    border-radius: 2px;
+    display:inline-block;
+    background-color: rgb(40, 214, 63);
+}
