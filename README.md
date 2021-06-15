@@ -30,7 +30,7 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 ![](images/1.png)
 
 
-## make sure your url look like `https://www.google.com/save/list/OgzWxNklVNWALXft0bF1wP9ZJMMT9A`
+## make sure your url look like `https://www.google.com/save/list/OgzWxNklVNWALXft0bF1wP9ZJMMT`
 
 ![](images/2.png)
 
