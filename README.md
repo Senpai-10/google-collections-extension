@@ -19,7 +19,19 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 
 ## How to use
 
-- First you need to have more than +200 items in your collections to have second page.
+- First make sure have more than +200 items in your collection to have second page.
 
 - Go to [here](https://www.google.com/save)
+
+<br>
+
+## select collection 
+
+![](images/1.png)
+
+
+## make sure your url look like `https://www.google.com/save/list/collection_id`
+
+![](images/2.png)
+
 
