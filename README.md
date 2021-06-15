@@ -4,8 +4,6 @@ next and previous page in google chrome collections
 
 Fix for [here](https://support.google.com/websearch/thread/13496475/collections-not-showing-all-saved?hl=en)
 
-<br>
-
 ## How to install the extension from release page
 
 ### Chrome
