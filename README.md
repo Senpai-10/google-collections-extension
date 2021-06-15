@@ -35,3 +35,8 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 ![](images/2.png)
 
 
+## click the extension icon
+
+![](images/3.png)
+![](images/4.png)
+
