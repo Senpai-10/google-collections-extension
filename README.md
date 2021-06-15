@@ -19,5 +19,5 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 
 ## How to use
 
-- first you need to have more than +200 items in your collections to have second page
+- First you need to have more than +201 items in your collections to have second page.
 
