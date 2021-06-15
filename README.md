@@ -9,7 +9,7 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 ## How to install the extension from release page
 
 ### Chrome
-- first latest version of the extension on the release page (don't download the source code you only need gce.zip), unzip it 
+- first latest version of the extension on the [release page](https://github.com/Senpai-10/google-collections-extension/releases) (don't download the source code you only need gce.zip), unzip it 
 
 - write chrome://extensions/ in your address bar
 
