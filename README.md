@@ -19,7 +19,7 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 
 ## How to use
 
-- First make sure have more than +200 items in your collection to have second page.
+- First make sure have more than +200 items in your collection to have a second page.
 
 - Go to [here](https://www.google.com/save)
 
