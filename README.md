@@ -7,7 +7,6 @@ Fix for [here](https://support.google.com/websearch/thread/13496475/collections-
 <br>
 
 ## How to install the extension from release page
-___
 
 ### Chrome
 - first latest version of the extension on the release page (don't download the source code you only need gce.zip), unzip it 
